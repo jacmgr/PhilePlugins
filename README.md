@@ -8,18 +8,18 @@ I don't know how to git. Maybe Someday.  You can read about the plugins and down
 
 ## Plugin List
 
-  •Jaccms Core Plugin
-  •Jaccms Meta Data Plugin
-  •Jaccms Content Variables Plugin
-  •Wikitten - the wikitten tree
-  •Shortcode Plugin
-  •Amazon ASIN Shortcode
-  •GALLERY TimThumb Shortcode
-  •INCLUDE Page Shortcode
-  •Search Pages Shortcode
-  •Jaccms Zones Plugin
-  •A Mini Auth Plugin
-  •Jaccms Editor Plugin
+* Jaccms Core Plugin
+* Jaccms Meta Data Plugin
+* Jaccms Content Variables Plugin
+* Wikitten - the wikitten tree
+* Shortcode Plugin
+* Amazon ASIN Shortcode
+* GALLERY TimThumb Shortcode
+* INCLUDE Page Shortcode
+* Search Pages Shortcode
+* Jaccms Zones Plugin
+* A Mini Auth Plugin
+* Jaccms Editor Plugin
 
 
 
