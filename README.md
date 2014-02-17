@@ -6,3 +6,22 @@ These are plugins from jacmgr.  They are quirky.  I am not a real programmer.  B
 I don't know how to git. Maybe Someday.  You can read about the plugins and download them if you want to see how bad I am.  [Visit my blog about my experience writing these plugins for Phile](http://www.jhinline.com/philecms/three)
 
 
+## Plugin List
+
+  •Jaccms Core Plugin
+  •Jaccms Meta Data Plugin
+  •Jaccms Content Variables Plugin
+  •Wikitten - the wikitten tree
+  •Shortcode Plugin
+  •Amazon ASIN Shortcode
+  •GALLERY TimThumb Shortcode
+  •INCLUDE Page Shortcode
+  •Search Pages Shortcode
+  •Jaccms Zones Plugin
+  •A Mini Auth Plugin
+  •Jaccms Editor Plugin
+
+
+
+
+
