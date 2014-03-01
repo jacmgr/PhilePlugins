@@ -24,6 +24,10 @@ It is one zip file with all plugins.  You activate them individually in your con
 * Jaccms Editor Plugin
 
 
+Github
+------
+
+Verified I can update this on git hub
 
 
 
